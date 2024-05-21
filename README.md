@@ -1,1 +1,1 @@
-# CBMcoin
+# WIAcoin
